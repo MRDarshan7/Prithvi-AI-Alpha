@@ -1,0 +1,90 @@
+[
+  {
+    "crop": "tomato",
+    "disease": "Early Blight",
+    "symptoms": ["yellow spots", "brown spots", "concentric rings", "lower leaves"],
+    "symptom_keywords": ["defoliation", "necrotic lesions", "leaf blight", "yellowing"],
+    "remedy": {
+      "chemical": "Mancozeb 75% WP spray at recommended dose",
+      "organic": "Neem oil (2-3 ml/L) with weekly repeat",
+      "prevention": "Remove infected lower leaves and avoid overhead irrigation"
+    }
+  },
+  {
+    "crop": "tomato",
+    "disease": "Late Blight",
+    "symptoms": ["water soaked lesions", "dark brown patches", "white mold underside", "fruit rot"],
+    "symptom_keywords": ["phytophthora", "rapid spread", "wet weather", "blight"],
+    "remedy": {
+      "chemical": "Metalaxyl + Mancozeb spray as per label",
+      "organic": "Copper-based organic fungicide",
+      "prevention": "Ensure field drainage and wide plant spacing"
+    }
+  },
+  {
+    "crop": "rice",
+    "disease": "Leaf Blast",
+    "symptoms": ["diamond spots", "gray center", "brown border", "leaf lesions"],
+    "symptom_keywords": ["pyricularia", "blast", "neck infection", "yield loss"],
+    "remedy": {
+      "chemical": "Tricyclazole application at early stage",
+      "organic": "Use balanced nitrogen and silicon-rich amendments",
+      "prevention": "Avoid excessive nitrogen and maintain spacing"
+    }
+  },
+  {
+    "crop": "rice",
+    "disease": "Bacterial Leaf Blight",
+    "symptoms": ["yellow stripes", "leaf tip drying", "wavy margins", "wilting seedlings"],
+    "symptom_keywords": ["kresek", "oozing", "xanthomonas", "leaf drying"],
+    "remedy": {
+      "chemical": "Streptocycline with copper oxychloride as per advisory",
+      "organic": "Seed treatment with beneficial bioagents",
+      "prevention": "Use resistant varieties and avoid flood injury"
+    }
+  },
+  {
+    "crop": "chilli",
+    "disease": "Powdery Mildew",
+    "symptoms": ["white powder on leaves", "leaf curling", "yellowing", "premature leaf drop"],
+    "symptom_keywords": ["powdery growth", "dry weather", "fungal coating", "leaf curl"],
+    "remedy": {
+      "chemical": "Wettable sulfur spray",
+      "organic": "Potassium bicarbonate + neem spray",
+      "prevention": "Improve canopy ventilation and avoid overcrowding"
+    }
+  },
+  {
+    "crop": "cotton",
+    "disease": "Alternaria Leaf Spot",
+    "symptoms": ["small brown spots", "target-like rings", "leaf blight", "defoliation"],
+    "symptom_keywords": ["alternaria", "necrosis", "spotting", "fungal disease"],
+    "remedy": {
+      "chemical": "Chlorothalonil-based fungicide",
+      "organic": "Compost tea and neem extract foliar spray",
+      "prevention": "Destroy crop debris and rotate crops"
+    }
+  },
+  {
+    "crop": "banana",
+    "disease": "Sigatoka Leaf Spot",
+    "symptoms": ["yellow streaks", "brown necrotic spots", "leaf drying", "reduced photosynthesis"],
+    "symptom_keywords": ["black sigatoka", "leaf streak", "banana spot", "fungal streak"],
+    "remedy": {
+      "chemical": "Propiconazole or recommended fungicide rotation",
+      "organic": "Neem-based biofungicide and sanitation",
+      "prevention": "Remove heavily infected leaves and improve aeration"
+    }
+  },
+  {
+    "crop": "wheat",
+    "disease": "Leaf Rust",
+    "symptoms": ["orange pustules", "powdery spores", "leaf yellowing", "reduced vigor"],
+    "symptom_keywords": ["rust", "uredinia", "fungal pustules", "leaf infection"],
+    "remedy": {
+      "chemical": "Tebuconazole or propiconazole spray",
+      "organic": "Sulfur-based organic control",
+      "prevention": "Use rust-resistant varieties and timely sowing"
+    }
+  }
+]
